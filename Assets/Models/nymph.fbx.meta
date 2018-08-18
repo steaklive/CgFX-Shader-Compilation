@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 0872b339088de9141a2774d052440cc8
+timeCreated: 1534188400
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: //RootNode
+    100006: nymph1
+    100008: nymph1_MeshPart0
+    100010: nymph1_MeshPart1
+    100012: nymph1_MeshPart10
+    100014: nymph1_MeshPart11
+    100016: nymph1_MeshPart12
+    100018: nymph1_MeshPart13
+    100020: nymph1_MeshPart14
+    100022: nymph1_MeshPart15
+    100024: nymph1_MeshPart16
+    100026: nymph1_MeshPart17
+    100028: nymph1_MeshPart2
+    100030: nymph1_MeshPart3
+    100032: nymph1_MeshPart4
+    100034: nymph1_MeshPart5
+    100036: nymph1_MeshPart6
+    100038: nymph1_MeshPart7
+    100040: nymph1_MeshPart8
+    100042: nymph1_MeshPart9
+    400000: Camera
+    400002: Lamp
+    400004: //RootNode
+    400006: nymph1
+    400008: nymph1_MeshPart0
+    400010: nymph1_MeshPart1
+    400012: nymph1_MeshPart10
+    400014: nymph1_MeshPart11
+    400016: nymph1_MeshPart12
+    400018: nymph1_MeshPart13
+    400020: nymph1_MeshPart14
+    400022: nymph1_MeshPart15
+    400024: nymph1_MeshPart16
+    400026: nymph1_MeshPart17
+    400028: nymph1_MeshPart2
+    400030: nymph1_MeshPart3
+    400032: nymph1_MeshPart4
+    400034: nymph1_MeshPart5
+    400036: nymph1_MeshPart6
+    400038: nymph1_MeshPart7
+    400040: nymph1_MeshPart8
+    400042: nymph1_MeshPart9
+    2000000: Camera
+    2300000: nymph1_MeshPart0
+    2300002: nymph1_MeshPart1
+    2300004: nymph1_MeshPart10
+    2300006: nymph1_MeshPart11
+    2300008: nymph1_MeshPart12
+    2300010: nymph1_MeshPart13
+    2300012: nymph1_MeshPart14
+    2300014: nymph1_MeshPart15
+    2300016: nymph1_MeshPart16
+    2300018: nymph1_MeshPart17
+    2300020: nymph1_MeshPart2
+    2300022: nymph1_MeshPart3
+    2300024: nymph1_MeshPart4
+    2300026: nymph1_MeshPart5
+    2300028: nymph1_MeshPart6
+    2300030: nymph1_MeshPart7
+    2300032: nymph1_MeshPart8
+    2300034: nymph1_MeshPart9
+    3300000: nymph1_MeshPart0
+    3300002: nymph1_MeshPart1
+    3300004: nymph1_MeshPart10
+    3300006: nymph1_MeshPart11
+    3300008: nymph1_MeshPart12
+    3300010: nymph1_MeshPart13
+    3300012: nymph1_MeshPart14
+    3300014: nymph1_MeshPart15
+    3300016: nymph1_MeshPart16
+    3300018: nymph1_MeshPart17
+    3300020: nymph1_MeshPart2
+    3300022: nymph1_MeshPart3
+    3300024: nymph1_MeshPart4
+    3300026: nymph1_MeshPart5
+    3300028: nymph1_MeshPart6
+    3300030: nymph1_MeshPart7
+    3300032: nymph1_MeshPart8
+    3300034: nymph1_MeshPart9
+    4300000: nymph1_MeshPart0
+    4300002: nymph1_MeshPart1
+    4300004: nymph1_MeshPart2
+    4300006: nymph1_MeshPart3
+    4300008: nymph1_MeshPart4
+    4300010: nymph1_MeshPart5
+    4300012: nymph1_MeshPart6
+    4300014: nymph1_MeshPart7
+    4300016: nymph1_MeshPart8
+    4300018: nymph1_MeshPart9
+    4300020: nymph1_MeshPart10
+    4300022: nymph1_MeshPart11
+    4300024: nymph1_MeshPart12
+    4300026: nymph1_MeshPart13
+    4300028: nymph1_MeshPart14
+    4300030: nymph1_MeshPart15
+    4300032: nymph1_MeshPart16
+    4300034: nymph1_MeshPart17
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: dae5fcb801ba50c47be75e540fb8e05c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
