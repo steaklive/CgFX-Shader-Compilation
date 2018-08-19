@@ -14,7 +14,6 @@ Current list of shaders:
 
 You can check out the short demonstration video down below:
 
-
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/MkOhTupmWss/0.jpg)](http://www.youtube.com/watch?v=MkOhTupmWss "CgFX Shader Compilation")
 
 To download the full build go here: https://mega.nz/#!aoMwgAjS!h4tdrndh805BXtZX5tgr6HjjLfv90WEBV6xzF1nmNVk
