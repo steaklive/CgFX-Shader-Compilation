@@ -2,6 +2,9 @@
 
 This repo demonstrates several cool CgFX shaders which I'd like to share with you. I have used them in different projects, so I think it's good to keep the most interesting ones in one place:) Everything is made with Unity Engine.
 
+<br>![alt text](https://preview.ibb.co/jBaXXp/Fur.png")
+<br>![alt text](https://preview.ibb.co/bw0cyU/SSS.png")
+
 Current list of shaders:
 - Interference Shader
 - Oren-Nayar Shader
